@@ -1,0 +1,4 @@
+Model,Type,Accuracy (%),Precision (%),Recall (%),F1-Score (%)
+YOLOv11n,Novel,99.88,99.88,99.88,99.88
+YOLOv8n,Novel,99.5,99.5,99.5,99.5
+CNN (scratch),In Class,80.0,80.0,80.0,80.0
