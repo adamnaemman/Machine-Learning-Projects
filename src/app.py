@@ -313,9 +313,9 @@ SEVERITY_BADGE = {
 
 # Model file paths (relative to app.py)
 MODEL_PATHS = {
-    "YOLOv11n": "src/models/yolov11n3/weights/best.pt",
-    "YOLOv8n":  "src/models/yolov8n/weights/best.pt",
-    "CNN":      "src/models/tomato_cnn/tomato_cnn.keras",
+    "YOLOv11n": "runs/classify/tomato_yolov11/yolov11n3/weights/best.pt",
+    "YOLOv8n":  "runs/classify/tomato_yolov8/yolov8n/weights/best.pt",
+    "CNN":       "runs/classify/tomato_cnn/tomato_cnn.keras",
 }
 
 # Reported test accuracies for sidebar display
