@@ -1,0 +1,18 @@
+Classification Report — YOLOv8
+======================================================================
+                                      precision    recall  f1-score   support
+
+                      Bacterial spot     0.9938    0.9969    0.9953       320
+                        Early blight     0.9864    0.9667    0.9764       150
+                         Late blight     0.9965    0.9826    0.9895       287
+                           Leaf Mold     1.0000    1.0000    1.0000       144
+                  Septoria leaf spot     0.9816    1.0000    0.9907       267
+Spider mites Two spotted spider mite     1.0000    1.0000    1.0000       252
+                         Target Spot     0.9953    1.0000    0.9976       212
+              YellowLeaf  Curl Virus     1.0000    0.9979    0.9990       482
+                        mosaic virus     1.0000    1.0000    1.0000        57
+                             healthy     0.9959    1.0000    0.9979       240
+
+                            accuracy                         0.9950      2411
+                           macro avg     0.9949    0.9944    0.9946      2411
+                        weighted avg     0.9950    0.9950    0.9950      2411

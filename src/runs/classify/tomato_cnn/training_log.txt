@@ -1,0 +1,9 @@
+Stopped at epoch: 46
+
+--- Training Scores ---
+accuracy: 0.8566
+loss: 0.4208
+
+--- Evaluation Scores ---
+val_accuracy: 0.8222
+val_loss: 0.5041

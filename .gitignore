@@ -6,12 +6,6 @@ PlantVillage_Balanced/
 __pycache__/
 *.pyc
 
-# Ignore large Deep Learning weights / models
-*.pt
-*.onnx
-*.h5
-weights/
 
 # Ignore training outputs/logs yang berat
-runs/
 EDA_logs/
