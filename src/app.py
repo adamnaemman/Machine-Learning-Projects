@@ -320,9 +320,9 @@ MODEL_PATHS = {
 
 # Reported test accuracies for sidebar display
 MODEL_ACCURACY = {
-    "YOLOv11n": 99.00,
-    "YOLOv8n":  98.50,
-    "CNN":       98.30,
+    "YOLOv11n": 99.88,
+    "YOLOv8n":  99.50,
+    "CNN": 80.00,
 }
 
 # ============================================================
